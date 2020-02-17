@@ -6,7 +6,7 @@ rustPlatform.buildRustPackage rec {
 
   src = ./.;
 
-  cargoSha256 = "06nhwxyv2x78gdky5lz9raipx6z764n9ffqwq30x4mfxbsbdwf2x";
+  cargoSha256 = "0085z26g6j80nf0zbwqxnbcqyjhxzknvb5wy21fmrrmy4ldrp4fl";
 
   meta = with lib; {
     description = "A small space to upload pictures to";
